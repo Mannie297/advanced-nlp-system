@@ -8,6 +8,18 @@
 
 A comprehensive Natural Language Processing system that integrates sentiment analysis, named entity recognition (NER), key phrase extraction, and dependency parsing using transformer-based models. The system is presented through a user-friendly Streamlit web interface.
 
+## 📱 Application Preview
+
+![Streamlit Application](https://raw.githubusercontent.com/Mannie297/advanced-nlp-system/main/docs/images/streamlit_app.png)
+
+## 📊 Sample Analysis Results
+
+| Text | Sentiment | Confidence Score |
+|------|-----------|------------------|
+| "I absolutely love this product! It's amazing and works perfectly." | Positive | 0.98 |
+| "The service was okay, but could be better. Not terrible though." | Neutral | 0.65 |
+| "This is the worst experience I've ever had. Never buying again." | Negative | 0.92 |
+
 ## 🌟 Features
 
 - **Sentiment Analysis**: Real-time sentiment classification with confidence scores
