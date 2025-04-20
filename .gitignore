@@ -24,6 +24,8 @@ wheels/
 venv/
 env/
 ENV/
+.venv/
+.venv*/
 
 # IDE
 .idea/
@@ -54,4 +56,8 @@ logs/
 
 # System Files
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# Project specific
+nlp_app/
+*.pyc 

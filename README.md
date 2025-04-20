@@ -136,6 +136,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Emmanuel.O - Mannie297
 
 Project Link: [https://github.com/yourusername/advanced-nlp-system](https://github.com/yourusername/advanced-nlp-system) 
